@@ -5,7 +5,7 @@ Created on Wed Jun  2 13:35:45 2021
 @author: Matheus Grande-Margenfeld
 Dette programmet skal kunne løse lineære likningsett på formen for eksempel ax+by+cz=d,
 kan ha flere eller færre variabler, og må være like mange likninger som variabler.
-    Eks på input: 3 2 1 1 for ligningsettet 3x+2y+z=1
+    Eks på input: 3 2 1 1 for ligningsettet 3x+2y+z=1 
 """
 #Importerer det som er nødvendig fra biblioteket numpy
 from numpy import array, linalg
